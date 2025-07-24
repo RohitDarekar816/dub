@@ -20,7 +20,6 @@ dist/
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
@@ -45,3 +44,4 @@ packages/stripe-app/.build/*
 *.csv
 *.ndjson
 .vitest
+config.bat
